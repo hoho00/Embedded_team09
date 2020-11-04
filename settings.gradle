@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Embedded_Simple_Apartment_Gate_Control"
